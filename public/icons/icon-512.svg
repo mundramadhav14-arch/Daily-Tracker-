@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Daily Tracker icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fffaf1" />
+      <stop offset="100%" stop-color="#f5efe1" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)" />
+  <circle cx="396" cy="112" r="64" fill="#fb923c" opacity="0.22" />
+  <rect x="96" y="76" width="320" height="360" rx="60" fill="url(#card)" />
+  <rect x="136" y="138" width="240" height="38" rx="19" fill="#d1fae5" />
+  <rect x="136" y="214" width="154" height="26" rx="13" fill="#cbd5e1" />
+  <rect x="136" y="278" width="154" height="26" rx="13" fill="#cbd5e1" />
+  <rect x="136" y="342" width="154" height="26" rx="13" fill="#cbd5e1" />
+  <circle cx="340" cy="227" r="30" fill="#14b8a6" />
+  <path d="M326 228l10 10 20-24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" />
+  <circle cx="340" cy="291" r="30" fill="#14b8a6" />
+  <path d="M326 292l10 10 20-24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" />
+  <circle cx="340" cy="355" r="30" fill="#fb923c" />
+  <path d="M326 341l28 28m0-28l-28 28" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10" />
+</svg>
